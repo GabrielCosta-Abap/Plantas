@@ -14,7 +14,7 @@
 		<semantic:titleHeading>
 			<Title
 				text="{Nome}"
-				level="H2"/>
+				level="H1"/>
 		</semantic:titleHeading>
 
 		<semantic:headerContent>
